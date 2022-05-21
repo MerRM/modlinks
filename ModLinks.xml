@@ -2471,4 +2471,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/]]>
         </Repository>
     </Manifest>
-</ModLinks>
+<Manifest>
+        <Name>Lightbringer</Name>
+        <Description>A mod that changes your character main weapon from melee to ranged.</Description>
+        <Version>2.1.5</Version>
+        <Link SHA256="c07f75888306532959eb321cd9016a881dd1d51e">
+            <![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer/releases/download/2.1.5/Lightbringer.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency />
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer/]]>
+        </Repository>
+    </Manifest>
